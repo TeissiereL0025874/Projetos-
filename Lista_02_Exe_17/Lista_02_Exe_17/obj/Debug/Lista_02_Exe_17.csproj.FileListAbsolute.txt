@@ -1,0 +1,8 @@
+c:\users\tarcísio\documents\visual studio 2015\Projects\Lista_02_Exe_17\Lista_02_Exe_17\bin\Debug\Lista_02_Exe_17.exe.config
+c:\users\tarcísio\documents\visual studio 2015\Projects\Lista_02_Exe_17\Lista_02_Exe_17\bin\Debug\Lista_02_Exe_17.exe
+c:\users\tarcísio\documents\visual studio 2015\Projects\Lista_02_Exe_17\Lista_02_Exe_17\bin\Debug\Lista_02_Exe_17.pdb
+c:\users\tarcísio\documents\visual studio 2015\Projects\Lista_02_Exe_17\Lista_02_Exe_17\obj\Debug\Lista_02_Exe_17.exe
+c:\users\tarcísio\documents\visual studio 2015\Projects\Lista_02_Exe_17\Lista_02_Exe_17\obj\Debug\Lista_02_Exe_17.pdb
+I:\Tarcisio_06794\Lista_02_Exe_17\Lista_02_Exe_17\bin\Debug\Lista_02_Exe_17.exe.config
+I:\Tarcisio_06794\Lista_02_Exe_17\Lista_02_Exe_17\obj\Debug\Lista_02_Exe_17.exe
+I:\Tarcisio_06794\Lista_02_Exe_17\Lista_02_Exe_17\obj\Debug\Lista_02_Exe_17.pdb

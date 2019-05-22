@@ -1,0 +1,12 @@
+c:\users\tarcísio\documents\visual studio 2015\Projects\Lista_02_Exe_18\Lista_02_Exe_18\bin\Debug\Lista_02_Exe_18.exe.config
+c:\users\tarcísio\documents\visual studio 2015\Projects\Lista_02_Exe_18\Lista_02_Exe_18\bin\Debug\Lista_02_Exe_18.exe
+c:\users\tarcísio\documents\visual studio 2015\Projects\Lista_02_Exe_18\Lista_02_Exe_18\bin\Debug\Lista_02_Exe_18.pdb
+c:\users\tarcísio\documents\visual studio 2015\Projects\Lista_02_Exe_18\Lista_02_Exe_18\obj\Debug\Lista_02_Exe_18.csprojResolveAssemblyReference.cache
+c:\users\tarcísio\documents\visual studio 2015\Projects\Lista_02_Exe_18\Lista_02_Exe_18\obj\Debug\Lista_02_Exe_18.exe
+c:\users\tarcísio\documents\visual studio 2015\Projects\Lista_02_Exe_18\Lista_02_Exe_18\obj\Debug\Lista_02_Exe_18.pdb
+I:\Tarcisio_06794\Lista_02_Exe_18\Lista_02_Exe_18\bin\Debug\Lista_02_Exe_18.exe.config
+I:\Tarcisio_06794\Lista_02_Exe_18\Lista_02_Exe_18\obj\Debug\Lista_02_Exe_18.exe
+I:\Tarcisio_06794\Lista_02_Exe_18\Lista_02_Exe_18\obj\Debug\Lista_02_Exe_18.pdb
+E:\Tarcisio_06794\Lista_02_Exe_18\Lista_02_Exe_18\bin\Debug\Lista_02_Exe_18.exe.config
+E:\Tarcisio_06794\Lista_02_Exe_18\Lista_02_Exe_18\obj\Debug\Lista_02_Exe_18.exe
+E:\Tarcisio_06794\Lista_02_Exe_18\Lista_02_Exe_18\obj\Debug\Lista_02_Exe_18.pdb
